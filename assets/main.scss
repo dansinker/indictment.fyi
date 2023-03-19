@@ -1,0 +1,278 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
+
+body {
+  margin-left: 300px;
+  margin-right: 100px;
+  background-color: rgb(180, 211, 227);
+  font-family: source-sans-pro, sans-serif;  
+  
+}
+
+div#wrapper {
+  max-width: 800px;
+}
+
+img#logo {
+  width: 70%;
+  margin-top: 50px;
+  margin-bottom: 30px;
+}
+
+h1, h2, h3, p {
+  text-align: left;
+  font-family: sans-serif;
+}
+h1 {
+  font-size: 4em;
+  text-align: left;
+  margin-top: 50px;
+  margin-bottom: 25px;
+  font-family: gothic-open-shaded, sans-serif;
+  font-weight: 400;
+  font-style: normal; 
+}
+
+h1 span.smaller {
+  font-size: .8em;
+}
+
+h2 {
+  font-size: 3em;
+  margin-bottom: 50px;
+}
+h3 {
+  font-size: 1.5em;
+}
+
+p {
+  font-size: 1.2em;
+}
+
+p.intro, p.outtro {
+  font-size: 1.1em;
+}
+
+p.outtro {
+  margin-top: -10px;
+  margin-bottom: 50px;
+}
+
+p.small {
+  font-size: .8em;
+}
+
+
+p.alert {
+  background-color: rgb(240, 134, 102);
+  color: white;
+  text-align: left;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+p.alert a{
+ color: White;
+}
+
+b {
+  font-weight: 600;
+}
+
+h2 time {
+  font-weight: 600;
+}
+.today {
+  margin-top: 25px;
+  font-size: 1.5em;
+  margin-bottom: 25px;
+}
+
+span.small {
+  font-size: .8em;
+}
+
+.today li {
+  padding-bottom: 20px;
+}
+
+li li:first-child {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+#titlebox {
+  margin-bottom: 25px;
+}
+
+.site-footer {
+    border-top: 0;
+    margin-top: 30px;
+    padding: 0;
+    margin-bottom: 30px;
+}
+
+.site-footer p {
+  font-size: 1em;
+}
+
+.addthis_tipjar_inline, p.tips {
+  padding-bottom: 25px;
+}
+
+/* #attj div.at-tjin-title p span {
+  float: left;
+  margin-right: 10px;
+}
+*/
+
+span.mobile {
+  display: none;
+}
+
+span.desktop {
+  display: inline;
+}
+
+
+div#mail {
+  margin-bottom: 25px;
+  ;
+}
+
+div#mail p {
+  text-align: center;
+  font-size: 1.2em;
+}
+
+
+div#archive h2 {
+  font-size: 2em;
+  font-weight: 600;
+}
+
+div#archive h3 {
+  font-weight: 600;
+}
+
+div#archive p {
+  text-align: left;
+}
+
+div#archive li {
+  font-size: 1.2em;
+  margin-bottom: 15px;
+}
+
+div#archive li li {
+  font-size: 1em;
+}
+
+div.list {
+}
+
+a {
+  font-weight: bold;
+  color: black;
+  text-decoration: underline;
+}
+
+a:visited {
+  color: black;
+}
+
+@media only screen and (max-width: 767px) {
+
+
+  body {
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+
+  h1, {
+    margin-top: 25px;
+    font-size: 2.6em;
+  }
+
+  img#logo {
+    width: 90%;
+    margin-top: 25px;
+    margin-bottom: 25px;
+  }
+
+h2 {
+  font-size: 1.5em;
+  margin-bottom: 50px;
+}
+
+h3.promo {
+  font-size: 1.3em;
+}
+
+div#archive h2 {
+  font-size: 1.5em;
+}
+
+#titlebox h3 {
+  font-size: 1.1em;
+  margin-bottom: 15px;
+}
+
+p.alert {
+  font-size: 1em;
+}
+
+.today {
+  font-size: 1.3em;
+}
+
+p {
+  font-size: 1em;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+#titlebox {
+  margin-bottom: 20px;
+}
+
+span.desktop {
+  display: none;
+}
+
+span.mobile {
+  display: inline;
+}
+
+p.tips {
+  margin-left: 0;
+}
+
+div#mail {
+  max-width: 95%;
+}
+
+
+.site-footer {
+    border-top: 0;
+    margin-top: 25px;
+}
+
+div.list {
+  width: 90%;
+}
+
+}
+
+.day time {
+  font-size: 1.3em;
+  font-weight: 600;
+  margin-bottom: 1em;
+}
+
+.day ul {
+  padding-top: 1em;
+}
