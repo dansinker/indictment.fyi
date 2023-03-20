@@ -4,6 +4,24 @@
 
 @import "minima";
 
+#mc_embed_signup, {display:inline; font:14px Helvetica,Arial,sans-serif; width:100%;}
+#mc_embed_signup form{width: 100%;text-align: left;}
+#mc_embed_signup .button{background-color: black;}
+#mc_embed_signup input.email, .emailform {border: 2px solid black; margin-right: 5px;}
+
+.emailform { 
+  border: 2px solid black; 
+  margin-right: 5px;
+  margin-bottom: 5px;
+  padding: 6px;
+  font-size:14px;
+  font-family: Helvetica,Arial,sans-serif; 
+  display: inline;
+  border-radius: 4px;
+  width: 350px;
+  vertical-align: top;
+}
+
 body {
   margin-left: 300px;
   margin-right: 100px;
@@ -251,7 +269,7 @@ p.tips {
   margin-left: 0;
 }
 
-div#mail {
+div#mail, .emailform {
   max-width: 95%;
 }
 
@@ -276,3 +294,4 @@ div.list {
 .day ul {
   padding-top: 1em;
 }
+
