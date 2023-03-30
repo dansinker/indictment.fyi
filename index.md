@@ -19,6 +19,8 @@ layout: home-nosign
 
 Hi there,
 
-In case Donald Trump is indicted (either soon, or later, or multiple times), this site will update regularly with news, so you don't have to track the ins-and-outs of all of this. Instead, I will. _Shudders_
+So Donald Trump has been indicted! A lot of things are going to happen now and this site and the corresponding newsletter will update regularly with news, so you don't have to track the ins-and-outs of all of this. Instead, I will. _Shudders_.
 
-Hi, I'm <a href="https://dansinker.com">Dan Sinker</a> and during the two Trump impeachment proceedings, I wrote the <a href="https://impeachment.fyi">impeachment.fyi</a> newsletter and for some reason I've forgotten how much work that was and am doing it again. Sign up to get these updates delivered to you, that is, if an indictment really happens:
+Yes, I'm literally writing the first edition right now. _Oh no_.
+
+Hi, I'm <a href="https://dansinker.com">Dan Sinker</a> and during the two Trump impeachment proceedings, I wrote the <a href="https://impeachment.fyi">impeachment.fyi</a> newsletter and for some reason I've forgotten how much work that was and am doing it again. Sign up to get these updates delivered to you, because I guess we're really doing this:
