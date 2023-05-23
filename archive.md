@@ -2,7 +2,7 @@
 layout: home
 ---
 <div id="archive">
-  <h2>Things happen fast. Here's all of it</h2>
+  <h2>Trump Indictment Archive</h2>
   <div class="list">
     {% assign current_week = site.time | date: "%U" | plus: 0 %}
     {% capture filtered_dates_array %}
