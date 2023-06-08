@@ -1,7 +1,7 @@
 ---
 layout: home
 ---
-<!--<p class="alert"><b>Please note: While we await the transfer of articles of impeachment from the House to the Senate, and the resumption of daily impeachment news, this site will update infrequently.</b></p>-->
+<p class="alert"><b>Please note:</b> If Donald Trump is indicted between June 7 and June 15 2023, this site will not be updated because I am at literal actual Disney World with my family. <i>Sorry, not sorry.</i></p>
 
 <p class="intro"><b>Previously:</b> {{ site.data.news.news[0].yesterday }}</p>
 <h2 class="today"><time class="timeago" datetime="{{ site.data.news.news[0].date }}">{{ site.data.news.news[0].date }}</time>, {{ site.data.news.news[0].date | date: "%A, %B %e, %Y" }}</h2>
