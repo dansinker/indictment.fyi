@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: "Indictment dot fyi"
-description: "A quick snapshot of what's happening in the indictment of Donald Trump."
+description: "A quick snapshot of what's happening in the indictment(s) of Donald Trump."
 url: "https://www.indictment.fyi"
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: dansinker
